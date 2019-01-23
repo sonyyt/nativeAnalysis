@@ -3,6 +3,12 @@ average native interface per project:58
 projects that have native interface (and don't have native activity):129
 average native interface per project with native interface without native activity:39
 total interfaces/parameters:5069/9080
+
+unusual parameters/all parameters = 300/9,000
+
+apks with >8 parameters: 1%
+
+
 --------------------------detailed report------------------------------------
 Interfaces: interfaces per app ~ number of apps
 Array
